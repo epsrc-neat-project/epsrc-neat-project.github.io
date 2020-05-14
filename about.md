@@ -7,8 +7,8 @@ title: About
 
 ---
 *References:*<br>
-<div class="align-justify">1. Zhu et al., Packet-Level Telemetry in Large Datacenter Networks, ACM SIGCOMM 2015</div><br> 
-<div class="align-justify">2. Zhuo et al., Understanding and Mitigating Packet Corruption in Data Center Networks, ACM SIGCOMM 2017</div><br>  
+<div class="align-justify">1. Zhu et al., Packet-Level Telemetry in Large Datacenter Networks, ACM SIGCOMM 2015</div>
+<div class="align-justify">2. Zhuo et al., Understanding and Mitigating Packet Corruption in Data Center Networks, ACM SIGCOMM 2017</div> 
 3. Tilmans et al., Stroboscope: Declarative Network Monitoring on a Budget, USENIX NSDI 2018<br>
 4. Hoose, Monitoring and Troubleshooting, One Engineer’s rant, NANOG 2019<br>
 5. Maltz, Keeping Cloud-Scale Networks Healthy, 2016<br>
