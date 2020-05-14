@@ -6,7 +6,6 @@ title: About
 <p style='text-align: justify;'>Data centre networks are poorly equipped to rapidly spot and address failures [1,2,3], resulting in countless well-documented application performance degradation or outages [1,4,5,6,7]. This is because the investigation process is performed in centralised commodity servers (collectors) that do not have per-packet visibility, but instead aggregated and sampled statistics from the data plane [1,3].</p>
 
 ![](figures/neat-vision.png){: style="float: center"}
-*image_caption*
 
 <p style='text-align: justify;'>The NEAT project will address this deficiency by moving traffic analysis directly into switches that have per-packet visibility. Exploiting advances in programmable hardware, e.g. P4 [8], NEAT will rethink data plane operation and will transform switches from just packet forwarder with limited monitoring capabilities to more intelligent systems capable of analysing traffic and exporting only relevant results. This will enable the level of fine-grained data plane visibility required to allow operators to rapidly identify and adapt to changes in network conditions, which hurts applications.</p>
 
