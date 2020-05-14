@@ -37,49 +37,49 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-      </header>
 
       <section id="pages" class="clearfix">
-	<ul class="navigation">
-           
-	{% if page.title == "About" %}
+        <ul class="navigation">
+
+        {% if page.title == "About" %}
          <li class="navigation"><a href="index" class="navigation active">About</a></li>
-         
-	{% else %}
+
+        {% else %}
          <li class="navigation"><a href="index" class="navigation">About</a></li>
         {% endif %}
-        
-	{% if page.title == "History" %}
+
+        {% if page.title == "History" %}
          <li class="navigation"><a href="history" class="navigation active">History</a></li>
-        
-	{% else %}
+
+        {% else %}
          <li class="navigation"><a href="history" class="navigation">History</a></li>
         {% endif %}
-            
-	{% if page.title == "Team" %}
+
+        {% if page.title == "Team" %}
          <li class="navigation"><a href="team" class="navigation active">Team</a></li>
 
-	{% else %}
+        {% else %}
          <li class="navigation"><a href="team" class="navigation">Team</a></li>
         {% endif %}
-            
-	{% if page.title == "Contribution" %}
+
+        {% if page.title == "Contribution" %}
          <li class="navigation"><a href="contribution" class="navigation active">Contribution</a></li>
 
         {% else %}
          <li class="navigation"><a href="contribution" class="navigation">Contribution</a></li>
         {% endif %}
-            
-	{% if page.title == "Links" %}
+
+        {% if page.title == "Links" %}
          <li class="navigation"><a href="links" class="navigation active">Links</a></li>
-        
-	{% else %}
+
+        {% else %}
          <li class="navigation"><a href="links" class="navigation">Links</a></li>
         {% endif %}
-	
-	</ul>
-	</section>
-        
+
+        </ul>
+        </section>
+      </header>
+
 	<hr>
         <section id="main_content">
           {{ content }}
