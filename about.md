@@ -8,9 +8,9 @@ title: About
 ---
 <p style='text-align: justify;'>
 References:
-1. Zhu et al., Packet-Level Telemetry in Large Datacenter Networks, ACM SIGCOMM 2015
-2. Zhuo et al., Understanding and Mitigating Packet Corruption in Data Center Networks, ACM SIGCOMM 2017
-3. Tilmans et al., Stroboscope: Declarative Network Monitoring on a Budget, USENIX NSDI 2018
+1. Zhu et al., Packet-Level Telemetry in Large Datacenter Networks, ACM SIGCOMM 2015   
+2. Zhuo et al., Understanding and Mitigating Packet Corruption in Data Center Networks, ACM SIGCOMM 2017   
+3. Tilmans et al., Stroboscope: Declarative Network Monitoring on a Budget, USENIX NSDI 2018   
 4. Hoose, Monitoring and Troubleshooting, One Engineer’s rant, NANOG 2019
 5. Maltz, Keeping Cloud-Scale Networks Healthy, 2016
 6. Zhu et al., Congestion Control for Large-Scale RDMA Deployments, ACM SIGCOMM 2015
