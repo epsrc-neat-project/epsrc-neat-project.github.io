@@ -9,9 +9,9 @@ title: About
 *References:*<br>
 <div class="align-justify">1. Zhu et al., Packet-Level Telemetry in Large Datacenter Networks, ACM SIGCOMM 2015</div>
 <div class="align-justify">2. Zhuo et al., Understanding and Mitigating Packet Corruption in Data Center Networks, ACM SIGCOMM 2017</div> 
-3. Tilmans et al., Stroboscope: Declarative Network Monitoring on a Budget, USENIX NSDI 2018<br>
-4. Hoose, Monitoring and Troubleshooting, One Engineer’s rant, NANOG 2019<br>
-5. Maltz, Keeping Cloud-Scale Networks Healthy, 2016<br>
-6. Zhu et al., Congestion Control for Large-Scale RDMA Deployments, ACM SIGCOMM 2015<br>
-7. Cardwell et al., BBR: Congestion-Based Congestion Control, ACM Queue 2016<br>
-8. Bosshart et al., P4: Programming Protocol-independent Packet Processors, ACM Computer Communication Review 2014
+<div class="align-justify">3. Tilmans et al., Stroboscope: Declarative Network Monitoring on a Budget, USENIX NSDI 2018</div>
+<div class="align-justify">4. Hoose, Monitoring and Troubleshooting, One Engineer’s rant, NANOG 2019</div>
+<div class="align-justify">5. Maltz, Keeping Cloud-Scale Networks Healthy, 2016</div>
+<div class="align-justify">6. Zhu et al., Congestion Control for Large-Scale RDMA Deployments, ACM SIGCOMM 2015</div>
+<div class="align-justify">7. Cardwell et al., BBR: Congestion-Based Congestion Control, ACM Queue 2016</div>
+<div class="align-justify">8. Bosshart et al., P4: Programming Protocol-independent Packet Processors, ACM Computer Communication Review 2014</div>
