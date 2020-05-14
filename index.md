@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Index
 ---
 
 ClassBench-ng is a tool for generation of synthetic classification rule sets for benchmarking, which is based on well-known (but longer maintained) ClassBench. The main features of ClassBench-ng are the following:

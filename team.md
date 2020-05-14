@@ -3,16 +3,12 @@ layout: default
 title: Team
 ---
 
-## Brno University of Technology
+## PI
 
-- [Jiří Matoušek](http://www.fit.vutbr.cz/~imatousek/index.php.en) (imatousek at fit.vutbr.cz)
-- [Jan Kořenek](http://www.fit.vutbr.cz/~korenek/index.php.en)
+- [Gianni Antichi](https://gianniantichi.github.io/)
 
-## University of Cambridge
+## Researchers
 
-- [Gianni Antichi](http://www.cl.cam.ac.uk/~ga288/)
-- [Andrew W. Moore](http://www.cl.cam.ac.uk/~awm22/)
+- [AAA BBB](https://epsrc-neat-project.github.io/) (PostDoctoral Researcher)
+- [CCC DDD](https://epsrc-neat-project.github.io/) (PhD student)
 
-## CESNET
-
-- [Adam Lučanský](https://github.com/lucansky)
