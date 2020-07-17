@@ -9,6 +9,5 @@ title: Team
 
 ## Researchers
 
-- [AAA BBB](https://epsrc-neat-project.github.io/) (PostDoctoral Researcher)
-- [CCC DDD](https://epsrc-neat-project.github.io/) (PhD student)
+- [Sebastiano Miano](https://sebymiano.github.io/) (PostDoctoral Researcher)
 
