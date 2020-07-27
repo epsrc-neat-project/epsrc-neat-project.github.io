@@ -1,10 +1,6 @@
 ---
-title: 2 SIGCOMM posters
-author: Gianni
-tags:
-  - poster
-  - SIGCOMM
-layout: post
+layout: default
+title: Two posters accepted at ACM SIGCOMM 2020
 ---
 
 Two posters accepted at ACM SIGCOMM 2020!!! In **Revisiting Heavy-Hitters: Don't count packets, compute flow inter-packet metrics in the data plane** 
