@@ -16,8 +16,7 @@ title: Publications
 
 01. **Automatic Optimization of Software Data Planes**, 
 Miano S., Retvari G., Risso F., Moore A.W., Antichi G.
-ACM SIGCOMM, New York, New York, US, 10-14 August, 2020.
-
+ACM SIGCOMM, New York, New York, US, 10-14 August, 2020.  
 02. **Revisiting Heavy-Hitters: Don't count packets, compute flow inter-packet metrics in the data plane**,
 Singh S., Rothenberg C., Luizelli M., Antichi G., Pongracz G.
 ACM SIGCOMM, New York, New York, US, 10-14 August, 2020.
