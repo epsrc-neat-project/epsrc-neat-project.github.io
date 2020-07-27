@@ -12,6 +12,3 @@ layout: default
 <p class="view">by {{ page.author | default: site.author }}</p>
 {% endif %}
 
-{% if page.tags %}
-<p class="view"><small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small></p>
-{% endif %}
