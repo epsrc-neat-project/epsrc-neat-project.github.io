@@ -1,9 +1,5 @@
 ---
 title: Two posters accepted at ACM SIGCOMM 2020
-author: Gianni
-tags:
-  - test
-  - testing
 layout: post
 ---
 
