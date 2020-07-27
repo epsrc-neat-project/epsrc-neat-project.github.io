@@ -7,7 +7,7 @@ title: Index
 ---  
 
 ### 27 July 2020
-Two posters accepted at ACM SIGCOMM 2020!!! In ...[continue](_posts/2020-07-27-2sigcommposters)
+Two posters accepted at ACM SIGCOMM 2020!!! In ...[continue](_posts/2020-07-27-2sigcommposters.md)
 
 ### 20 July 2020
 [Sebastiano Miano](https://sebymiano.github.io/) joins the project as Postdoctoral Researcher!!!
@@ -16,7 +16,7 @@ Two posters accepted at ACM SIGCOMM 2020!!! In ...[continue](_posts/2020-07-27-2
 The project officially starts!!!
 
 ### 14 May 2020
-This is the first post for this project. Testing ...[continue](_posts/2020-05-14-test-post)
+This is the first post for this project. Testing ...[continue](_posts/2020-05-14-test-post.md)
 
 ### 13 May 2020
 Website is live!
