@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Two posters accepted at ACM SIGCOMM 2020
 ---
 
