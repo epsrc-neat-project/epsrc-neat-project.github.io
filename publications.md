@@ -3,15 +3,6 @@ layout: default
 title: Publications
 ---
 
-## Journals
-
-- AAAA
-
-## Conferences/Workshops
-
-- BBBB
-
-
 ## Posters
 
 01. **Automatic Optimization of Software Data Planes**, 
