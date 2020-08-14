@@ -6,6 +6,9 @@ title: Index
 ## News
 ---  
 
+### 14 August 2020
+The poster "Automatic Optimization of Software Data Planes" won the ACM SIGCOMM Student Research Competition!!
+
 ### 27 July 2020
 Two posters accepted at ACM SIGCOMM 2020!!! In ...[continue](_posts/2020-07-27-2sigcommposters.md)
 
