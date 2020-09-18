@@ -2,6 +2,10 @@
 layout: default
 title: Publications
 ---
+## Papers
+01. **Detecting Routing Loops in the Data Plane**,  
+Kucera J., Ben Basat R., Kuka M., Antichi G., Yu M., Mitzenmacher M.  
+ACM CoNEXT, Barcelona, ES, 1-4 December, 2020
 
 ## Posters
 

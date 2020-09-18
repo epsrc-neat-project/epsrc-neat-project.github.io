@@ -6,6 +6,9 @@ title: Index
 ## News
 ---  
 
+### 18 September 2020
+One paper accepted at ACM CoNEXT 2020!!! In **Detecting** ...[continue](_posts/2020-09-18-conext20.md)
+
 ### 14 August 2020
 The poster "Automatic Optimization of Software Data Planes" won the <span style="color:red">ACM SIGCOMM Student Research Competition</span>!!
 
