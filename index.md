@@ -5,6 +5,8 @@ title: Index
 
 ## News
 ---  
+### 23 October 2020
+One poster accepted at ACM CoNEXT 2020!!! With **DISCO** ...[continue](_posts/2020-10-23-conext20poster.md)
 
 ### 18 September 2020
 One paper accepted at ACM CoNEXT 2020!!! In **Detecting** ...[continue](_posts/2020-09-18-conext20.md)
